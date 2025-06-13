@@ -1,11 +1,11 @@
-import MyApp from "./Components/MyApp"
+import Game from "./Components/Game/Game"
 
 function App() {
  
 
   return (
     <>
-     <MyApp/>
+     <Game/>
     </>
   )
 }
